@@ -1,2 +1,2 @@
 # Automobile-Dashboard
-Automobile Sales Data Analysis Dashboard using Excel
+(Screenshot 2026-08-10 202458.png)
